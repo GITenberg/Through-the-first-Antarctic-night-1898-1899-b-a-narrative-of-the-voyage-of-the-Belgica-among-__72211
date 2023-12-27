@@ -1,5 +1,8 @@
 _repo: Through-the-first-Antarctic-night-1898-1899-b-a-narrative-of-the-voyage-of-the-Belgica-among-__72211
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72211-h/images/cover.jpg
 creator:
   author:
     agent_name: Cook, Frederick Albert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38561
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72211#Through-the-first-Antarctic-night-1898-1899-b-a-narrative-of-the-voyage-of-the-Belgica-among-_
 gutenberg_issued: '2023-11-23'
 identifiers:
   gutenberg: '72211'
